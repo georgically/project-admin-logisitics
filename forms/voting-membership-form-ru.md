@@ -10,7 +10,7 @@ Translated by: Volodymyr Kirichinets
 - [английский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-en.md)
 - [Испанский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
 - [португальский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)
-- Китайский (Мандарин) (Mandarim)
+- [Китайский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md) 
 - Французский
 
 ## Информация об участнике сообщества 

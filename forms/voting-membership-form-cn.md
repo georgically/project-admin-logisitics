@@ -10,7 +10,7 @@ Please enter your name
 - [英语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-en.md)
 - [葡萄牙语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
 - [西班牙语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
-- [俄语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
+- [俄语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-ru.md)
 - [法语]
 
 ## 会员资料

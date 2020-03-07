@@ -6,9 +6,8 @@ Este formulario también está disponible en otros idiomas:
 
 - [Inglés](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-en.md)
 - [Portugués](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)
-- [Español](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-es.md)
 - [Ruso](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-ru.md)
-- Chino (mandarín): Traducción pendiente
+- [Chino](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-cn.md)
 - Francés: Traducción pendiente
 
 
@@ -17,7 +16,8 @@ Este formulario también está disponible en otros idiomas:
 - Nombre:
  
 - Pronombres
-  Opciones: ella, él, elle, ve / ver / vis
+
+  Opciones: ella, él, elle, ve / ver / vis
   
 - Email
   
@@ -28,7 +28,7 @@ Este formulario también está disponible en otros idiomas:
 - Handle de Twitter [Opcional]:
    
 - Idiomas:
-         
+
   Opciones [Opción múltiple]: Lista de https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
          
 - Ocupación:
