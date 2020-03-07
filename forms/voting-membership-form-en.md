@@ -1,7 +1,7 @@
 # Registration for Voting Member:
 
 Please complete the additional questions to be registered as a voting member of PyLadies.
-
+ 
 This form is also available in other languages:
 
 - [Portuguese](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)

@@ -6,11 +6,11 @@
 
 本表格也包含其他语言版本：
 
-- 英语 （(https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-en.md)
-- 葡萄牙语 (https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
-- 西班牙语 (https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
-- 俄语 (https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-ru.md)
-- 法语 (https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-fr.md)
+- [英语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-en.md)
+- [葡萄牙语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
+- [西班牙语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
+- [俄语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-ru.md)
+- [法语]
 
 ## PyLadies 会员选项
     
