@@ -10,7 +10,7 @@
 - [葡萄牙语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
 - [西班牙语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
 - [俄语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-ru.md)
-- [法语]
+- [法语](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-fr.md)
 
 ## PyLadies 会员选项
     
