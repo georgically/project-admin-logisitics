@@ -10,7 +10,7 @@ Este formulário também está disponível em outros idiomas:
 - [Inglês](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-en.md)
 - [Espanhol](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
 - [Russo](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-ru.md)
-- [Chinês](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-cn.md)
+- [Chinês (Mandarim)](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-cn.md)
 - Francês: a ser traduzido
 
 ## Opção de associação do PyLadies

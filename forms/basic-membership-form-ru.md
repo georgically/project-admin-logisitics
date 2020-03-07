@@ -10,7 +10,7 @@ Translated by: Volodymyr Kirichinets
 - [английский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-en.md)
 - [Испанский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-es.md)
 - [португальский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-pt.md)
-- [Китайский](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-cn.md)
+- [Китайский (Мандарин)](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/basic-membership-form-cn.md)
 - Французский
 
 ## Опции членства в PyLadies

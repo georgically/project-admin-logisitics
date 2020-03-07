@@ -7,7 +7,7 @@ Este formulario también está disponible en otros idiomas:
 - [Inglés](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-en.md)
 - [Portugués](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-pt.md)
 - [Ruso](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-ru.md)
-- [Chino](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-cn.md)
+- [Chino (Mandarín)](https://github.com/pyladies/project-admin-logisitics/blob/master/forms/voting-membership-form-cn.md)
 - Francés: Traducción pendiente
 
 
